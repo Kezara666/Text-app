@@ -55,5 +55,28 @@
       });
     });
   </script>
+
+<script src="https://www.gstatic.com/firebasejs/9.17.2/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.17.2/firebase-firestore.js"></script>
+<script src="https://www.gstatic.com/firebasejs/9.17.2/firebase-analytics.js"></script>
+
+<script>
+//Replace with your config data
+var firebaseConfig = {
+  apiKey: "AIzaSyASLkydV3WvD1_MpdM5zSmdq-HRMhYjeD8",
+    authDomain: "flutterdemo-1274a.firebaseapp.com",
+    projectId: "flutterdemo-1274a",
+    storageBucket: "flutterdemo-1274a.appspot.com",
+    messagingSenderId: "499615703222",
+    appId: "1:499615703222:web:f8638a9d05f13f0b210617"
+};
+  
+// Initialize Firebase
+firebase.initializeApp(firebaseConfig);
+firebase.analytics();
+</script>
+
+
+
 </body>
 </html>
