@@ -4,13 +4,30 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+<h2>Features</h2>
+<ul>
+	<li>Multiple choice questions</li>
+	<li>Randomized question order</li>
+	<li>Customizable difficulty levels</li>
+	<li>Timed tests</li>
+	<li>Score tracking</li>
+	<li>Results analysis</li>
+</ul>
 
-A few resources to get you started if this is your first Flutter project:
+<h2>Subjects</h2>
+<ul>
+	<li>Mathematics</li>
+	<li>Science</li>
+	<li>History</li>
+	<li>Literature</li>
+	<li>Programming</li>
+	<li>And more!</li>
+</ul>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h2>How to use</h2>
+<p>To start using the Testing App, simply select a subject and difficulty level, and begin answering questions. You can take as many tests as you like, and track your progress over time.</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h2>Technical information</h2>
+<p>The Testing App is built using HTML, CSS, and JavaScript, and is compatible with all modern web browsers. It uses a server-side API to retrieve and store data, and employs industry-standard security measures to protect your information.</p>
+![WhatsApp Image 2023-03-15 at 13 51 37](https://user-images.githubusercontent.com/87107996/225249328-0738df86-3324-4d26-a1bc-602a485d1026.jpg)
+
