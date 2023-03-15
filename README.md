@@ -29,5 +29,4 @@ A new Flutter project.
 
 <h2>Technical information</h2>
 <p>The Testing App is built using HTML, CSS, and JavaScript, and is compatible with all modern web browsers. It uses a server-side API to retrieve and store data, and employs industry-standard security measures to protect your information.</p>
-![WhatsApp Image 2023-03-15 at 13 51 37](https://user-images.githubusercontent.com/87107996/225249328-0738df86-3324-4d26-a1bc-602a485d1026.jpg)
-
+<img src='https://user-images.githubusercontent.com/87107996/225249328-0738df86-3324-4d26-a1bc-602a485d1026.jpg'>
