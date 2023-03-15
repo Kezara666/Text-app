@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+<a href='https://flutterdemo-1274a.web.app/#/'>Here the the hosted site</a>
 
 <h2>Features</h2>
 <ul>
