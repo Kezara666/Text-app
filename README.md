@@ -1,36 +1,25 @@
-# textchatapp
+# Cross Platform Texting Chat App 📱💬🌐
 
-A new Flutter project.
+A mobile app that allows users to send text messages cross-platform using Flutter and Firebase. The app is hosted at 🌐 https://flutterdemo-1274a.web.app/#/.
 
-## Getting Started
-<a href='https://flutterdemo-1274a.web.app/#/'>Here the the hosted site</a>
 
-<h2>Features</h2>
-<ul>
-	<li>Multiple choice questions</li>
-	<li>Randomized question order</li>
-	<li>Customizable difficulty levels</li>
-	<li>Timed tests</li>
-	<li>Score tracking</li>
-	<li>Results analysis</li>
-</ul>
+## Technologies Used 🚀
 
-<h2>Subjects</h2>
-<ul>
-	<li>Mathematics</li>
-	<li>Science</li>
-	<li>History</li>
-	<li>Literature</li>
-	<li>Programming</li>
-	<li>And more!</li>
-</ul>
+* ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+* ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-<h2>How to use</h2>
-<p>To start using the Testing App, simply select a subject and difficulty level, and begin answering questions. You can take as many tests as you like, and track your progress over time.</p>
+## Getting Started 🛠️
 
-<h2>How to use</h2>
-<p>To start using the Testing App<a href='https://flutterdemo-1274a.web.app/#/'>Here the the hosted site</a>, simply select a subject and difficulty level, and begin answering questions. You can take as many tests as you like, and track your progress over time.</p>
+To get a local copy up and running follow these steps:
 
-<h2>Technical information</h2>
-<p>The Testing App is built using the Flutter framework, which is a popular mobile app development framework created by Google. Flutter allows for fast and efficient app development with a single codebase, making it easy to create apps for both iOS and Android platforms. The app also uses a server-side API to retrieve and store data, and employs industry-standard security measures to protect your information.</p>
-<img src='https://user-images.githubusercontent.com/87107996/225249328-0738df86-3324-4d26-a1bc-602a485d1026.jpg'>
+1. Clone the repository
+2. Open the project in your preferred editor
+3. Run the app using `flutter run`
+
+## Hosted 🌐
+
+The app is hosted at 🌐 https://flutterdemo-1274a.web.app/#/.
+
+## Screenshots 📸
+
+![image](https://user-images.githubusercontent.com/87107996/227769733-cc1359d2-7bf7-4112-ad83-f5131c6eb58f.png)
