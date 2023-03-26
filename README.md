@@ -1,4 +1,7 @@
 # Cross Platform Texting Chat App 📱💬🌐
+![Flutter Version](https://img.shields.io/badge/flutter-v3.7.1-blue?logo=flutter)
+![Dart Version](https://img.shields.io/badge/dart-v2.14.2-blue?logo=dart)
+![Firebase Version](https://img.shields.io/badge/firebase-v9.1.3-orange?logo=firebase)
 
 A mobile app that allows users to send text messages cross-platform using Flutter and Firebase. The app is hosted at 🌐 https://flutterdemo-1274a.web.app/#/.
 
